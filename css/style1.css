@@ -1,0 +1,35 @@
+*{
+    font-family: monospace;
+    /* border: 2px solid black; */
+}
+
+
+body{
+    font-size: 22px;
+    border: 2px solid black;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+p{
+    color: purple!important; /*this overrides everything*/
+}
+
+p{
+    color: red;
+}
+
+p span {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+.gray{
+    color: gray;
+}
+
+#second{
+    font-style: italic;
+}

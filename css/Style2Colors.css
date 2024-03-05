@@ -1,0 +1,19 @@
+/* Colors  */
+body{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background: papayawhip;
+    color: rgb(0,0,0); /* rgb = red, green, blue and their max value is 255*/
+}
+
+p{
+    /* color: rgba(0,0,0,0.5);  here a is the transparency which has max value of 1 and least value 0 */
+
+    /* color: #ff0000; this gives red. here hex is also like rgb where first two value is for red second two for green and last two for blue and if we put ff in their respective place we get that color repectively. For eg: 00ff00 we get green color. Also #000 means #000000 i.e #000 is the short hand for #000000 */
+
+    color: #333;
+}
+
+
+
